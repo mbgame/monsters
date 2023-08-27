@@ -1,6 +1,6 @@
-## Monsters-rolodex-complete
-
-The completed version of our monsters rolodex project!
+## Monsters
+live demo : https://mbgame.github.io/monsters/
+The completed version of our monsters project!
 
 # How to fork and clone
 
